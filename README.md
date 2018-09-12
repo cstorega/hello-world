@@ -1,2 +1,2 @@
 # hello-world
-just another test repository
+HI, this is Claire _ just trying out github
